@@ -31,12 +31,6 @@ The GUI version offers a simple window where users can enter their guesses and r
 
 ---
 
-## Screenshots
-
-![GUI Version Screenshot](path_to_screenshot_image) <!-- You can add a screenshot of the tkinter version here -->
-
----
-
 ## Installation and Usage
 
 ### 1. Command-Line Version
@@ -45,13 +39,13 @@ To run the command-line version of the game:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/number-guessing-game.git
-    cd number-guessing-game
+    git clone https://github.com/TSPARIHAR/Num-Guesser.git
+    cd Num-Guesser
     ```
 
 2. **Run the game**:
     ```bash
-    python number_guess_cli.py
+    python Num Guess.py
     ```
 
 ### 2. GUI Version (Tkinter)
@@ -67,13 +61,13 @@ To run the `tkinter` version of the game:
 
 3. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/number-guessing-game.git
-    cd number-guessing-game
+    git clone https://github.com/TSPARIHAR/Num-Guesser.git
+    cd Num-Guesser
     ```
 
 4. **Run the game**:
     ```bash
-    python number_guess_gui.py
+    python Num Guess Graphical.py
     ```
 
 ---
